@@ -34,6 +34,9 @@
 [Concur System](https://www.concursolutions.com/nui/signin)
 
 * Use `1XXXXXX@mymail.sutd.edu.sg`
-
 * Payments and claims and all the money stuff
+
+[GEMS (Graduate Employment Management System)](https://sutd-csm.symplicity.com/)
+
+* Career and Internship stuff
 
