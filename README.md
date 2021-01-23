@@ -36,7 +36,7 @@
 * Use `1XXXXXX@mymail.sutd.edu.sg`
 * Payments and claims and all the money stuff
 
-[GEMS (Graduate Employment Management System)](https://sutd-csm.symplicity.com/)
+[GEMS (Graduate Employment Management System)](https://sutd-csm.symplicity.com/students)
 
 * Career and Internship stuff
 
