@@ -18,6 +18,9 @@
 [EASE](https://ease.sutd.edu.sg/)
 
 * 2FA management
+* Unlock account
+  * If you are 101% sure you're keying in the correct username and password but cannot log in, unlock your account here
+  * `Need help signing in?` > `Unlock Account?`
 
 [IT Service Desk Portal (On-Campus)](https://itservicedesk.sutd.edu.sg/)
 
