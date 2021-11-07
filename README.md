@@ -20,7 +20,10 @@
 * 2FA management
 * Unlock account
   * If you are 101% sure you're keying in the correct username and password but cannot log in, unlock your account here
-  * `Need help signing in?` > `Unlock Account?`
+  * From the ease login page > `Need help signing in?` > `Unlock Account?`
+  * If you realise that you're doing this multiple times a day when you're in school but have no problems when you're at home, read on:
+    * Your computer might still be trying to connect to the printer network with your old password (which logs you out after it fails multiple times).
+    * If you're on Windows, search `Credential Manager`, click on `Windows Credentials` and update/remove the printer credentials (`SCT-PS-X`).
 
 [IT Service Desk Portal (On-Campus)](https://itservicedesk.sutd.edu.sg/)
 
